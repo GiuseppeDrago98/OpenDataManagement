@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/resource/Ragusa/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Ragusa</ns1:hasProvince>
+    <ns1:hasResidenti>314910</ns1:hasResidenti>
+    <ns1:hasMigranti>11154</ns1:hasMigranti>
+    <ns1:hasStranieri>59146</ns1:hasStranieri>
+    <ns1:hasScuole>57</ns1:hasScuole>
+    <ns1:hasArrivi>198707.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>42.2%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>36.6%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>688388.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Ragusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Ragusa/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Ragusa</ns1:hasProvince>
+    <ns1:hasResidenti>315564</ns1:hasResidenti>
+    <ns1:hasMigranti>12112</ns1:hasMigranti>
+    <ns1:hasStranieri>56284</ns1:hasStranieri>
+    <ns1:hasScuole>63</ns1:hasScuole>
+    <ns1:hasArrivi>304404.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-2.5%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-9.3%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1031801.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Ragusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Siracusa/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Siracusa</ns1:hasProvince>
+    <ns1:hasResidenti>386071</ns1:hasResidenti>
+    <ns1:hasMigranti>14488</ns1:hasMigranti>
+    <ns1:hasStranieri>29428</ns1:hasStranieri>
+    <ns1:hasScuole>63</ns1:hasScuole>
+    <ns1:hasArrivi>207474.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>23.0%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>22.0%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>689593.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Siracusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Catania/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Catania</ns1:hasProvince>
+    <ns1:hasResidenti>1077270</ns1:hasResidenti>
+    <ns1:hasMigranti>62892</ns1:hasMigranti>
+    <ns1:hasStranieri>68591</ns1:hasStranieri>
+    <ns1:hasScuole>274</ns1:hasScuole>
+    <ns1:hasArrivi>922108.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-3.1%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>1.8%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>2150600.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Catania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Palermo/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Palermo</ns1:hasProvince>
+    <ns1:hasResidenti>1231602</ns1:hasResidenti>
+    <ns1:hasMigranti>60526</ns1:hasMigranti>
+    <ns1:hasStranieri>69099</ns1:hasStranieri>
+    <ns1:hasScuole>375</ns1:hasScuole>
+    <ns1:hasArrivi>1181889.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>3.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>1.0%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>3320361.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Palermo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Trapani/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Trapani</ns1:hasProvince>
+    <ns1:hasResidenti>421256</ns1:hasResidenti>
+    <ns1:hasMigranti>16862</ns1:hasMigranti>
+    <ns1:hasStranieri>41500</ns1:hasStranieri>
+    <ns1:hasScuole>58</ns1:hasScuole>
+    <ns1:hasArrivi>357635.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-48.2%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-49.3%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1148069.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Trapani"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Catania/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Catania</ns1:hasProvince>
+    <ns1:hasResidenti>1074089</ns1:hasResidenti>
+    <ns1:hasMigranti>57750</ns1:hasMigranti>
+    <ns1:hasStranieri>69224</ns1:hasStranieri>
+    <ns1:hasScuole>233</ns1:hasScuole>
+    <ns1:hasArrivi>512026.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>49.7%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>48.3%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1174237.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Catania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Trapani/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Trapani</ns1:hasProvince>
+    <ns1:hasResidenti>418277</ns1:hasResidenti>
+    <ns1:hasMigranti>18016</ns1:hasMigranti>
+    <ns1:hasStranieri>41734</ns1:hasStranieri>
+    <ns1:hasScuole>45</ns1:hasScuole>
+    <ns1:hasArrivi>464852.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>30.0%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>35.5%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1556120.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Trapani"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Caltanissetta/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Caltanissetta</ns1:hasProvince>
+    <ns1:hasResidenti>255931</ns1:hasResidenti>
+    <ns1:hasMigranti>8788</ns1:hasMigranti>
+    <ns1:hasStranieri>15789</ns1:hasStranieri>
+    <ns1:hasScuole>35</ns1:hasScuole>
+    <ns1:hasArrivi>30340.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-50.6%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-44.3%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>133223.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Caltanissetta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Agrigento/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Agrigento</ns1:hasProvince>
+    <ns1:hasResidenti>428003</ns1:hasResidenti>
+    <ns1:hasMigranti>16580</ns1:hasMigranti>
+    <ns1:hasStranieri>30383</ns1:hasStranieri>
+    <ns1:hasScuole>76</ns1:hasScuole>
+    <ns1:hasArrivi>394191.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>23.5%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>12.1%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1129987.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Agrigento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasScuole">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Ragusa/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Ragusa</ns1:hasProvince>
+    <ns1:hasResidenti>315601</ns1:hasResidenti>
+    <ns1:hasMigranti>10582</ns1:hasMigranti>
+    <ns1:hasStranieri>58415</ns1:hasStranieri>
+    <ns1:hasScuole>64</ns1:hasScuole>
+    <ns1:hasArrivi>139703.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-54.1%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-51.1%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>504058.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Ragusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasResidenti">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Trapani/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Trapani</ns1:hasProvince>
+    <ns1:hasResidenti>424039</ns1:hasResidenti>
+    <ns1:hasMigranti>19996</ns1:hasMigranti>
+    <ns1:hasStranieri>40150</ns1:hasStranieri>
+    <ns1:hasScuole>58</ns1:hasScuole>
+    <ns1:hasArrivi>690552.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>0.3%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-4.9%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>2266038.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Trapani"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Enna/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Enna</ns1:hasProvince>
+    <ns1:hasResidenti>157690</ns1:hasResidenti>
+    <ns1:hasMigranti>5748</ns1:hasMigranti>
+    <ns1:hasStranieri>7428</ns1:hasStranieri>
+    <ns1:hasScuole>13</ns1:hasScuole>
+    <ns1:hasArrivi>38938.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>43.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>42.8%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>77006.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Enna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Palermo/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Palermo</ns1:hasProvince>
+    <ns1:hasResidenti>1222988</ns1:hasResidenti>
+    <ns1:hasMigranti>51218</ns1:hasMigranti>
+    <ns1:hasStranieri>68286</ns1:hasStranieri>
+    <ns1:hasScuole>384</ns1:hasScuole>
+    <ns1:hasArrivi>503529.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-57.4%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-57.9%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1396417.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Palermo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Caltanissetta/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Caltanissetta</ns1:hasProvince>
+    <ns1:hasResidenti>259586</ns1:hasResidenti>
+    <ns1:hasMigranti>10706</ns1:hasMigranti>
+    <ns1:hasStranieri>16115</ns1:hasStranieri>
+    <ns1:hasScuole>35</ns1:hasScuole>
+    <ns1:hasArrivi>61437.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>0.3%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-3.9%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>239189.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Caltanissetta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Agrigento/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Agrigento</ns1:hasProvince>
+    <ns1:hasResidenti>423488</ns1:hasResidenti>
+    <ns1:hasMigranti>14662</ns1:hasMigranti>
+    <ns1:hasStranieri>30302</ns1:hasStranieri>
+    <ns1:hasScuole>81</ns1:hasScuole>
+    <ns1:hasArrivi>162466.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-58.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-49.4%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>571295.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Agrigento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Agrigento/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Agrigento</ns1:hasProvince>
+    <ns1:hasResidenti>416181</ns1:hasResidenti>
+    <ns1:hasMigranti>14346</ns1:hasMigranti>
+    <ns1:hasStranieri>28806</ns1:hasStranieri>
+    <ns1:hasScuole>80</ns1:hasScuole>
+    <ns1:hasArrivi>238428.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>46.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>52.4%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>870653.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Agrigento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Palermo/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Palermo</ns1:hasProvince>
+    <ns1:hasResidenti>1208819</ns1:hasResidenti>
+    <ns1:hasMigranti>50514</ns1:hasMigranti>
+    <ns1:hasStranieri>69572</ns1:hasStranieri>
+    <ns1:hasScuole>328</ns1:hasScuole>
+    <ns1:hasArrivi>754526.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>49.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>62.7%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>2272358.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Palermo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasVariazionePresenze">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasArrivi">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasVariazioneArrivi">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Siracusa/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Siracusa</ns1:hasProvince>
+    <ns1:hasResidenti>389344</ns1:hasResidenti>
+    <ns1:hasMigranti>14274</ns1:hasMigranti>
+    <ns1:hasStranieri>31290</ns1:hasStranieri>
+    <ns1:hasScuole>67</ns1:hasScuole>
+    <ns1:hasArrivi>168656.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-62.0%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-58.9%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>565106.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Siracusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Enna/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Enna</ns1:hasProvince>
+    <ns1:hasResidenti>160161</ns1:hasResidenti>
+    <ns1:hasMigranti>5736</ns1:hasMigranti>
+    <ns1:hasStranieri>8124</ns1:hasStranieri>
+    <ns1:hasScuole>15</ns1:hasScuole>
+    <ns1:hasArrivi>27087.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-62.1%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-58.7%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>53911.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Enna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasPresenze">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasProvince">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Siracusa/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Siracusa</ns1:hasProvince>
+    <ns1:hasResidenti>391400</ns1:hasResidenti>
+    <ns1:hasMigranti>16434</ns1:hasMigranti>
+    <ns1:hasStranieri>30991</ns1:hasStranieri>
+    <ns1:hasScuole>66</ns1:hasScuole>
+    <ns1:hasArrivi>443490.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>6.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>3.4%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>1375062.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Category:Siracusa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Caltanissetta/2021">
+    <ns1:hasAnno>2021</ns1:hasAnno>
+    <ns1:hasProvince>Caltanissetta</ns1:hasProvince>
+    <ns1:hasResidenti>253688</ns1:hasResidenti>
+    <ns1:hasMigranti>8616</ns1:hasMigranti>
+    <ns1:hasStranieri>15056</ns1:hasStranieri>
+    <ns1:hasScuole>33</ns1:hasScuole>
+    <ns1:hasArrivi>38930.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>28.3%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>37.8%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>183539.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Caltanissetta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Enna/2019">
+    <ns1:hasAnno>2019</ns1:hasAnno>
+    <ns1:hasProvince>Enna</ns1:hasProvince>
+    <ns1:hasResidenti>162371</ns1:hasResidenti>
+    <ns1:hasMigranti>6372</ns1:hasMigranti>
+    <ns1:hasStranieri>8205</ns1:hasStranieri>
+    <ns1:hasScuole>15</ns1:hasScuole>
+    <ns1:hasArrivi>71468.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>2.8%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>1.5%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>130653.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Enna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasAnno">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/Catania/2020">
+    <ns1:hasAnno>2020</ns1:hasAnno>
+    <ns1:hasProvince>Catania</ns1:hasProvince>
+    <ns1:hasResidenti>1072634</ns1:hasResidenti>
+    <ns1:hasMigranti>57784</ns1:hasMigranti>
+    <ns1:hasStranieri>69751</ns1:hasStranieri>
+    <ns1:hasScuole>261</ns1:hasScuole>
+    <ns1:hasArrivi>342014.0</ns1:hasArrivi>
+    <ns1:hasVariazioneArrivi>-62.9%</ns1:hasVariazioneArrivi>
+    <ns1:hasVariazionePresenze>-63.2%</ns1:hasVariazionePresenze>
+    <ns1:hasPresenze>791987.0</ns1:hasPresenze>
+    <ns1:hasDBpediaLink rdf:resource="http://dbpedia.org/resource/Catania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasMigranti">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasStranieri">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+</rdf:RDF>
